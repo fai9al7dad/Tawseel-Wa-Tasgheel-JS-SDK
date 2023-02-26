@@ -12,7 +12,7 @@ this is an sdk for the backend of choice (currently laravel). goal is to deal wi
 - [ ] joins
 - [ ] authentaction
 - [ ] realtime
-- [ ] create a frontend
+- [ ] create a gui that creates backend compatable routes and generates ts types
 - [ ] make sdk easy to extend
 
 ## notes
@@ -22,7 +22,6 @@ this is an sdk for the backend of choice (currently laravel). goal is to deal wi
 - user should be able to modify the sdk
   - change baseurl
   - modify default error messagess and success
-  -
 
 ## base workflow of the sdk
 
@@ -35,4 +34,4 @@ this is an sdk for the backend of choice (currently laravel). goal is to deal wi
 - [ ] check if the collection is init before chaining
 - [ ] do all crud operations
 - [ ] check permission before crud
-- [ ] create an abstract class for sdk to allow for e
+- [ ] create abstract classes and interfaces
