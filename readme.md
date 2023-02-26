@@ -1,5 +1,5 @@
 # note:
-this is still in pre mvp mode. 
+this is still in pre mvp phase. 
 
 # definition
 
