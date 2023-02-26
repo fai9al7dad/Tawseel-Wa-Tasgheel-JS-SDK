@@ -1,3 +1,6 @@
+# note:
+this is still in pre mvp mode. 
+
 # definition
 
 this is an sdk for the backend of choice (currently laravel). goal is to deal with your backend in the same way you interact with firebase or pocketbase.
